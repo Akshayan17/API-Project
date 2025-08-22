@@ -1,0 +1,262 @@
+{
+    "Disaster Movie": {
+        "reddit": {
+            "upvotes": 53397,
+            "comments": 5211
+        },
+        "imdb": {
+            "rating": "1.9",
+            "reviews": 95471
+        },
+        "tumblr": {
+            "avg_notes": 7.4
+        }
+    },
+    "Snow White": {
+        "reddit": {
+            "upvotes": 87124,
+            "comments": 13162
+        },
+        "imdb": {
+            "rating": "6.5",
+            "reviews": 965
+        },
+        "tumblr": {
+            "avg_notes": 1.6
+        }
+    },
+    "Fifty Shades of Grey": {
+        "reddit": {
+            "upvotes": 89961,
+            "comments": 13662
+        },
+        "imdb": {
+            "rating": "4.2",
+            "reviews": 343505
+        },
+        "tumblr": {
+            "avg_notes": 2.6
+        }
+    },
+    "The Emoji Movie": {
+        "reddit": {
+            "upvotes": 314808,
+            "comments": 18034
+        },
+        "imdb": {
+            "rating": "3.4",
+            "reviews": 74304
+        },
+        "tumblr": {
+            "avg_notes": 8.6
+        }
+    },
+    "Slender Man": {
+        "reddit": {
+            "upvotes": 28389,
+            "comments": 2596
+        },
+        "imdb": {
+            "rating": "3.3",
+            "reviews": 40300
+        },
+        "tumblr": {
+            "avg_notes": 4.0
+        }
+    },
+    "Max Steel": {
+        "reddit": {
+            "upvotes": 19843,
+            "comments": 1639
+        },
+        "imdb": {
+            "rating": "4.6",
+            "reviews": 21001
+        },
+        "tumblr": {
+            "avg_notes": 40.0
+        }
+    },
+    "The Dark Tower": {
+        "reddit": {
+            "upvotes": 13221,
+            "comments": 2987
+        },
+        "imdb": {
+            "rating": "5.6",
+            "reviews": 149908
+        },
+        "tumblr": {
+            "avg_notes": 2.6
+        }
+    },
+    "Man of Steel": {
+        "reddit": {
+            "upvotes": 20697,
+            "comments": 3834
+        },
+        "imdb": {
+            "rating": "7.1",
+            "reviews": 828023
+        },
+        "tumblr": {
+            "avg_notes": 8.0
+        }
+    },
+    "The 5th Wave": {
+        "reddit": {
+            "upvotes": 13941,
+            "comments": 1304
+        },
+        "imdb": {
+            "rating": "5.2",
+            "reviews": 120106
+        },
+        "tumblr": {
+            "avg_notes": 9.0
+        }
+    },
+    "21 Jump Street": {
+        "reddit": {
+            "upvotes": 52152,
+            "comments": 2933
+        },
+        "imdb": {
+            "rating": "7.2",
+            "reviews": 619523
+        },
+        "tumblr": {
+            "avg_notes": 17.0
+        }
+    },
+    "The Great Wall": {
+        "reddit": {
+            "upvotes": 197653,
+            "comments": 6495
+        },
+        "imdb": {
+            "rating": "5.9",
+            "reviews": 151140
+        },
+        "tumblr": {
+            "avg_notes": 0.4
+        }
+    },
+    "Robin Hood": {
+        "reddit": {
+            "upvotes": 25764,
+            "comments": 1663
+        },
+        "imdb": {
+            "rating": "6.6",
+            "reviews": 289051
+        },
+        "tumblr": {
+            "avg_notes": 78.8
+        }
+    },
+    "Avengers: Infinity War": {
+        "reddit": {
+            "upvotes": 188813,
+            "comments": 37124
+        },
+        "imdb": {
+            "rating": "8.4",
+            "reviews": 1263980
+        },
+        "tumblr": {
+            "avg_notes": 144.8
+        }
+    },
+    "Deadpool": {
+        "reddit": {
+            "upvotes": 69577,
+            "comments": 4977
+        },
+        "imdb": {
+            "rating": "8.0",
+            "reviews": 1197963
+        },
+        "tumblr": {
+            "avg_notes": 10.2
+        }
+    },
+    "Cats": {
+        "reddit": {
+            "upvotes": 395286,
+            "comments": 7460
+        },
+        "imdb": {
+            "rating": "2.8",
+            "reviews": 57418
+        },
+        "tumblr": {
+            "avg_notes": 7.2
+        }
+    },
+    "Logan": {
+        "reddit": {
+            "upvotes": 145566,
+            "comments": 14871
+        },
+        "imdb": {
+            "rating": "8.1",
+            "reviews": 882870
+        },
+        "tumblr": {
+            "avg_notes": 8.8
+        }
+    },
+    "Wonder Woman": {
+        "reddit": {
+            "upvotes": 22310,
+            "comments": 3923
+        },
+        "imdb": {
+            "rating": "7.3",
+            "reviews": 713792
+        },
+        "tumblr": {
+            "avg_notes": 14.4
+        }
+    },
+    "The Shape of Water": {
+        "reddit": {
+            "upvotes": 53502,
+            "comments": 6092
+        },
+        "imdb": {
+            "rating": "7.3",
+            "reviews": 455357
+        },
+        "tumblr": {
+            "avg_notes": 1.6
+        }
+    },
+    "The Matrix": {
+        "reddit": {
+            "upvotes": 199707,
+            "comments": 16543
+        },
+        "imdb": {
+            "rating": "8.7",
+            "reviews": 2124695
+        },
+        "tumblr": {
+            "avg_notes": 81.4
+        }
+    },
+    "Thuppakki": {
+        "reddit": {
+            "upvotes": 3089,
+            "comments": 450
+        },
+        "imdb": {
+            "rating": "8.1",
+            "reviews": 38672
+        },
+        "tumblr": {
+            "avg_notes": 85.6
+        }
+    }
+}
